@@ -1,4 +1,11 @@
-// print a  centered number pyramid
+// print a  centered number pyramid 
+//  1
+//    222
+//   33333
+//  4444444
+// 555555555
+
+
 
 
 package Code08;
