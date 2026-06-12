@@ -12,8 +12,7 @@ public class MaximumValue {
         int maxValue=arr[0];
 
         // compare maxValue ko array k har element k sth
-
-        for(int i = 0; i<=n-1;i++){
+         for(int i = 0; i<=n-1;i++){
             if (arr[i]>maxValue) {
                 // update maxValue
                 maxValue=arr[i];
@@ -22,3 +21,4 @@ public class MaximumValue {
         System.out.println(maxValue);
     }
 }
+       
